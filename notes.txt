@@ -1,0 +1,4 @@
+Start Postgres DB from docker compose
+- docker compose up -d
+- docker compose ps (check status of service)
+- open up on localhost:5050
